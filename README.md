@@ -1,3 +1,11 @@
+1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/stock-dashboard-poc.git
+cd stock-dashboard-poc
 
-[readme.txt](https://github.com/user-attachments/files/24436999/readme.txt)
-[Uploading Code - Shortcut.lnk…]()
+2-Install dependencies
+npm install
+
+3. Run the development server
+   npm run dev
+   
+   
